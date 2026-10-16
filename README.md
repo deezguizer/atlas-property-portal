@@ -1,2 +1,1 @@
-# atlas-property-portal
-atlas property portal
+Frontend UI Concept • Mock Data • No Backend
